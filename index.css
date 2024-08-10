@@ -1,0 +1,25 @@
+.impar{
+    background-color: pink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    /*La lista de fuentes se utiliza para definir el orden  
+    de preferencia de las fuentes tipográficas que el navegador
+    debe aplicar a un texto en una página web.
+    Las comillas se aplican cuando los nombres de las fuentes 
+    contienen espacios o caracteres especiales para asegurar que
+    el navegador lo interprete correctamente.*/
+}
+
+#segundo{
+    color: blue;
+    font-size: 36px; 
+}
+
+#tercero{
+    font-size: 24px; 
+}
+  
+#cuarto{
+    background-color: lightgreen; 
+    font-size: 24px; 
+    font-weight: bold; 
+}
